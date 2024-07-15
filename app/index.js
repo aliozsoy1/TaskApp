@@ -100,7 +100,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#CCCCCC',
   },
   separatorText: {
-    fontSize: 20,
+    fontSize: 19,
     marginHorizontal: 10,
     color: '#333333',
   },
